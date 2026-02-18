@@ -12,12 +12,7 @@ Built for research and experimentation with multi-agent debate, critic evaluatio
 - Memory of past decisions and price changes
 - Extensible for other travel domains (flights, packages, etc.)
 
----
 
-## Setup Instructions
-1. Copy `config/api_keys_example.json` to `config/api_keys.json` and insert your API keys.
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+
 
 
