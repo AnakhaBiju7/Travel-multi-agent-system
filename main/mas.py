@@ -1,4 +1,4 @@
-import os, datetime, time
+import os, datetime, time, json
 from groq import Groq
 from utils import call_llm
 from memory import setup_goal, load_goal, load_memory, save_memory
