@@ -25,6 +25,6 @@ Built for research and experimentation with multi-agent debate, critic evaluatio
 ```bash
 pip install -r requirements.txt
 
-3. Run the MAS:
+##3. Run the MAS:
 
 python mas/main.py
