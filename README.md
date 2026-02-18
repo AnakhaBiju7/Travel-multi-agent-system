@@ -1,6 +1,6 @@
 # Travel Multi-Agent System
 
-A **Level-4 Autonomous AI Multi-Agent System (MAS)** for hotel selection and monitoring.  
+An ** Autonomous AI Multi-Agent System (MAS)** for hotel selection and monitoring.  
 Built for research and experimentation with multi-agent debate, critic evaluation, and autonomous decision-making.
 
 ---
